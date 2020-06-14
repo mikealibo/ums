@@ -6,6 +6,7 @@ URL : localhost:8000/ums
 * PLEASE create your account to be redirected in dashboard
 
 WHAT I DID:
+
 -I created first my login and register template then
 
 -Enabled the auth:login and register
